@@ -1,0 +1,62 @@
+{
+  "1": {
+    "name": "لوحة مفاتيح ميكانيكية RGB",
+    "description": "لوحة مفاتيح احترافية بإضاءة خلفية وتصميم مريح للألعاب والاستخدام اليومي.",
+    "priceBeforeDiscount": 7000,
+    "priceAfterDiscount": 5000,
+    "sizes": ["TKL", "Full Size"],
+    "colors": ["#000000", "#FFFFFF"],
+    "images": [
+      "https://m.media-amazon.com/images/I/61Yul4XO9GL._UF350,350_QL80_.jpg",
+      "https://backend.pcd.com.sa/uploads/xpg-mage-wired-gaming-keyboard-black-rgb-mechanical-kailh-red-backlight-key-switches_api9cqugx__32312.1645825415.jpg?format=webp&width=650"
+    ]
+  },
+  "2": {
+    "name": "فأرة ألعاب دقيقة الاستجابة",
+    "description": "فأرة تحكم عالية الدقة مع إضاءة RGB وأزرار جانبية قابلة للبرمجة.",
+    "priceBeforeDiscount": 5000,
+    "priceAfterDiscount": 4000,
+    "sizes": ["Standard"],
+    "colors": ["#2F4F4F", "#FFFFFF"],
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2dq6XMvXnxhHKWot9aBgq3uKpvyIWMVatS-YgAw8xIXMBP7JCrIercdUxRVQu0sG10hc&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPOkpJNW8XE9AT6YLAU8f2Lt_L3f7iqGLm3sEIVbVSc67gvQC_ce9C1lmPpdkeAxrRGUU&usqp=CAU"
+    ]
+  },
+  "3": {
+    "name": "شاشة كمبيوتر 27 بوصة 2K",
+    "description": "شاشة عرض بدقة QHD مع معدل تحديث 144Hz، مثالية للألعاب والتصميم.",
+    "priceBeforeDiscount": 35000,
+    "priceAfterDiscount": 29500,
+    "sizes": ["27 pos"],
+    "colors": ["#000000"],
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkVXlrRlDxgU4NlRSVnHNQPRZVmuI4yePDfQ&s",
+      "https://goldentech.com.sa/media/catalog/product/cache/3b63c6023d7836f7abeed5960b50eab1/a/o/aoc_q27g4f_gaming_monitor_27-inch_2k_qhd_hdr10_ips_180hz_0.5ms_0.jpg"
+    ]
+  },
+  "4": {
+    "name": "قرص تخزين خارجي 1 تيرابايت",
+    "description": "قرص صلب محمول بسرعة نقل عالية وتصميم مضاد للصدمات.",
+    "priceBeforeDiscount": 11000,
+    "priceAfterDiscount": 9900,
+    "sizes": ["1TB"],
+    "colors": ["#A9A9A9", "#000000"],
+    "images": [
+      "https://cdn.sheeel.com/catalog/product/cache/074f467fdf747a38ab5e8f88243fd86f/1/t/1tb_external_hdd_type-c_5_gbps_by_transcend_1_.jpg",
+      "https://cdn.sheeel.com/catalog/product/cache/074f467fdf747a38ab5e8f88243fd86f/1/t/1tb_external_hdd_type-c_5_gbps_by_transcend_4_.jpg"
+    ]
+  },
+  "5": {
+    "name": "سماعة رأس مخصصة للألعاب",
+    "description": "سماعة بجودة صوت محيطي وميكروفون مدمج لعزل الضوضاء، مثالية للّعب والاجتماعات.",
+    "priceBeforeDiscount": 5000,
+    "priceAfterDiscount": 3500,
+    "sizes": ["Free Size"],
+    "colors": ["#2C2C2C", "#1E90FF"],
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-e8N5BvkN5ZYiPmpnA1D9nbSysJlGOzXbtQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHguA00GIRQ3q3B4gWRUoUG0hqSSh6UmzTIHrgG7fiTZZbbzBK8aq8z30byztAKpxhrTg&usqp=CAU"
+    ]
+  }
+}
